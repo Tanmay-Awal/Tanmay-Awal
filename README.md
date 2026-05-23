@@ -15,6 +15,12 @@
 
 ---
 
+### 👨‍💻 About Me
+
+CS undergrad at Bennett University (2028) with production experience building scalable full-stack and LLM-powered systems for real clients. Proficient in Next.js, NestJS, Flask, PostgreSQL, and conversational AI — seeking SDE / AI Engineer roles for 2026.
+
+---
+
 - 🔧 Building **full-stack systems** and **LLM-powered pipelines** end-to-end
 - 🤖 Hands-on with **RAG, vector search, and conversational AI**
 - 🏆 Top 50 — **Smart India Hackathon 2025**
