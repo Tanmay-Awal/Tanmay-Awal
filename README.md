@@ -101,8 +101,9 @@ Full-stack volunteer management portal with role-based dashboards, Google OAuth 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Tanmay-Awal&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&include_all_commits=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmay-Awal&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Tanmay-Awal&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&include_all_commits=true&cache_seconds=1800"/>
+&nbsp;
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmay-Awal&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6&cache_seconds=1800"/>
 
 </div>
 
@@ -115,12 +116,6 @@ Full-stack volunteer management portal with role-based dashboards, Google OAuth 
 <div align="center">
 
 [![Tanmay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tanmay-Awal&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b35&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-<div align="center">
-
-[![Profile Summary](https://profile-summary-for-github.herokuapp.com/api/v1/Tanmay-Awal/summary?theme=nord_dark)](https://profile-summary-for-github.herokuapp.com/user/Tanmay-Awal)
 
 </div>
 
