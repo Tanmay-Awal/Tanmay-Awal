@@ -112,6 +112,18 @@ Full-stack volunteer management portal with role-based dashboards, Google OAuth 
 
 </div>
 
+<div align="center">
+
+[![Tanmay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tanmay-Awal&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b35&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+<div align="center">
+
+[![Profile Summary](https://profile-summary-for-github.herokuapp.com/api/v1/Tanmay-Awal/summary?theme=nord_dark)](https://profile-summary-for-github.herokuapp.com/user/Tanmay-Awal)
+
+</div>
+
 ---
 
 ## 🏆 Trophies
