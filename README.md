@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%"/>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Tanmay+Awal+%F0%9F%91%8B;Full-Stack+%26+AI+Engineer;Building+things+that+ship.)](https://git.io/typing-svg)
 
 <p>CS @ Bennett University (2028) &nbsp;·&nbsp; Agra, India</p>
@@ -13,27 +15,12 @@
 
 ---
 
-<img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
-
-### About Me
-
-```typescript
-const tanmay = {
-  focus:    ["Full-Stack", "AI Engineering", "LLM Pipelines"],
-  stack:    ["Next.js", "NestJS", "Flask", "PostgreSQL"],
-  ai:       ["RAG", "Vector Search", "Conversational AI"],
-  cp:       "800+ LeetCode  ·  CF Rating 1450",
-  looking:  "SDE / AI Engineer roles 2026",
-};
-```
-
-- 🚀 Interested in **SDE & AI Engineering** roles
-- 🤖 Hands-on with **RAG pipelines, vector search, conversational AI**
+- 🔧 Building **full-stack systems** and **LLM-powered pipelines** end-to-end
+- 🤖 Hands-on with **RAG, vector search, and conversational AI**
 - 🏆 Top 50 — **Smart India Hackathon 2025**
 - 🎯 Top **15,000 / 100,000+** — Google Big Code Challenge
-- ⚡ **800+ DSA** on LeetCode · CF max rating **1450**
-
-<br clear="right"/>
+- ⚡ **800+ DSA** on LeetCode &nbsp;·&nbsp; Codeforces max rating **1450**
+- 📬 Open to **SDE / AI Engineer** remote roles — `awaltanmay@gmail.com`
 
 ---
 
@@ -123,21 +110,6 @@ Full-stack volunteer management portal with role-based dashboards, Google OAuth 
 <div align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Tanmay-Awal&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=8)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 🎯 Achievements
-
-<div align="center">
-
-| | Achievement |
-|:---:|:---|
-| 🥇 | Top 50 teams — **Smart India Hackathon 2025** (FloatChat, PS ID: 25040) |
-| 🎯 | Top **15,000 / 100,000+** — Google Big Code Challenge |
-| ⚡ | **800+ DSA problems** solved on LeetCode |
-| 📈 | Codeforces max rating **1450** |
 
 </div>
 
