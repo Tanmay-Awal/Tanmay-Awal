@@ -23,7 +23,6 @@ CS undergrad at Bennett University (2028) with production experience building sc
 
 - 🔧 Building **full-stack systems** and **LLM-powered pipelines** end-to-end
 - 🤖 Hands-on with **RAG, vector search, and conversational AI**
-- 🏆 Top 50 — **Smart India Hackathon 2025**
 - 🎯 Top **15,000 / 100,000+** — Google Big Code Challenge
 - ⚡ **800+ DSA** on LeetCode &nbsp;·&nbsp; Codeforces max rating **1450**
 - 📬 Open to **SDE / AI Engineer** remote roles — `awaltanmay@gmail.com`
@@ -51,16 +50,19 @@ CS undergrad at Bennett University (2028) with production experience building sc
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-FF4500?style=flat-square)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
 **AI & Automation**
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Retell AI](https://img.shields.io/badge/Retell_AI-00B4D8?style=flat-square)
 ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=flat-square)
 ![RAG Pipelines](https://img.shields.io/badge/RAG_Pipelines-FF6B35?style=flat-square)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-1a1a2e?style=flat-square)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
 ---
@@ -71,24 +73,23 @@ CS undergrad at Bennett University (2028) with production experience building sc
 <tr>
 <td width="50%" valign="top">
 
-### 🌊 FloatChat AI
-**React · Flask · PostgreSQL · ChromaDB · RAG**
+### 🌊 Ocean-IQ
+**Next.js · Flask · PostgreSQL · ChromaDB · RAG · Plotly**
 
-Conversational AI interface for ARGO oceanographic data. RAG pipeline over NetCDF sensor metadata with Gemini 1.5 Flash — auto-detects plot intent and returns Matplotlib charts inline.
+Full-stack AI oceanographic intelligence platform. Engineered an 8-step Intelligence Engine pipeline (intent classification → geocoding → semantic search → PostgreSQL retrieval → analytics → chart generation → LLM synthesis) with SSE streaming. Features 5 interactive Plotly chart types, a 3D interactive globe, thermocline detection, and Z-score anomaly detection — deployed live.
 
-🏆 **Top 50 — Smart India Hackathon 2025**
-
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Tanmay-Awal/floatchat-ai)
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Tanmay-Awal/Ocean-IQ)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00B4D8?style=flat-square&logo=vercel&logoColor=white)](https://ocean-iq-app.vercel.app)
 
 </td>
 <td width="50%" valign="top">
 
-### 🤝 Volunteer Hive
-**Next.js · NestJS · PostgreSQL · Docker · Azure**
+### 🛡️ CyberWatch
+**n8n · Neo4j · Qdrant · PostgreSQL · Groq · Gemini**
 
-Full-stack volunteer management portal with role-based dashboards, Google OAuth + JWT auth, and CRUD APIs — containerized with Docker, deployed on Azure.
+Fully automated multi-agent threat intelligence platform. 5 specialized agents (Collector, Enricher, Correlator, Prioritizer, Dispatcher) ingest CVEs from NVD, CISA KEV, AlienVault OTX, and OSV.dev every hour. Three-database architecture — PostgreSQL, Qdrant vector DB, Neo4j graph DB — self-hosted via Docker Compose at zero cost.
 
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Tanmay-Awal/volunteer-hive)
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Tanmay-Awal/cyberwatch-agent)
 
 </td>
 </tr>
