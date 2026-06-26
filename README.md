@@ -31,39 +31,15 @@ CS undergrad at Bennett University (2028) with production experience building sc
 
 ## 🛠️ Tech Stack
 
-**Languages**
+<p align="center">
+<img src="https://skillicons.dev/icons?i=ts,js,python,cpp" /><br/>
+<img src="https://skillicons.dev/icons?i=nextjs,react,nestjs,nodejs,flask" /><br/>
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb,neo4j,docker,azure" /><br/>
+</p>
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-
-**Frontend & Backend**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-
-**Databases & Infra**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-FF4500?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-
-**AI & Automation**
-
-![Retell AI](https://img.shields.io/badge/Retell_AI-00B4D8?style=flat-square)
-![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=flat-square)
-![RAG Pipelines](https://img.shields.io/badge/RAG_Pipelines-FF6B35?style=flat-square)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-1a1a2e?style=flat-square)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+<p align="center">
+  <code>RAG Pipelines</code> · <code>Retell AI</code> · <code>ElevenLabs</code> · <code>ChromaDB</code> · <code>Qdrant</code> · <code>n8n</code>
+</p>
 
 ---
 
