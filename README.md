@@ -73,31 +73,7 @@ Full-stack AI oceanographic intelligence platform. Engineered an 8-step Intellig
 
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
-
-![Tanmay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tanmay-Awal&show_icons=true&theme=tokyonight&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmay-Awal&layout=compact&theme=tokyonight&hide_border=true)  
-![GitHub Streak](https://streak-stats.demolab.com?user=Tanmay-Awal&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Tanmay-Awal&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Tanmay-Awal&color=58a6ff&style=flat-square&label=Profile+Views)
 
 *Always building. Always shipping.*
 
