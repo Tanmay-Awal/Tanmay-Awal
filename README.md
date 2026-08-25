@@ -75,10 +75,9 @@ Full-stack AI oceanographic intelligence platform. Engineered an 8-step Intellig
 
 ## 📊 GitHub Stats
 
-
 <div align="center">
 
-[![Tanmay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tanmay-Awal&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b35&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Tanmay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tanmay-Awal&theme=github-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b35&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -88,7 +87,7 @@ Full-stack AI oceanographic intelligence platform. Engineered an 8-step Intellig
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Tanmay-Awal&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=8)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Tanmay-Awal&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
