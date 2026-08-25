@@ -21,10 +21,10 @@ CS undergrad at Bennett University (2028) with production experience building sc
 
 ---
 
-* 🔧 Building **full-stack systems** and **LLM-powered pipelines** end-to-end
-* 🤖 Hands-on with **RAG, vector search, and conversational AI**
-* 🎯 Top **15,000 / 100,000+** — Google Big Code Challenge
-* ⚡ **800+ DSA** on LeetCode &nbsp;·&nbsp; Codeforces max rating **1450**
+* 🔧 Building **full-stack systems** and **LLM-powered pipelines** end-to-end  
+* 🤖 Hands-on with **RAG, vector search, and conversational AI**  
+* 🎯 Top **15,000 / 100,000+** — Google Big Code Challenge  
+* ⚡ **800+ DSA** on LeetCode · Codeforces max rating **1450**  
 * 📬 Open to **SDE / AI Engineer** remote roles — `awaltanmay@gmail.com`
 
 ---
@@ -77,7 +77,9 @@ Full-stack AI oceanographic intelligence platform. Engineered an 8-step Intellig
 
 <div align="center">
 
-[![Tanmay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tanmay-Awal&theme=github-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b35&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Tanmay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tanmay-Awal&show_icons=true&theme=tokyonight&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmay-Awal&layout=compact&theme=tokyonight&hide_border=true)  
+![GitHub Streak](https://streak-stats.demolab.com?user=Tanmay-Awal&theme=tokyonight&hide_border=true)
 
 </div>
 
